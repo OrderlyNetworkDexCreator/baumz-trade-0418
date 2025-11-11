@@ -1,6 +1,7 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "baumz-1024",
   "VITE_ORDERLY_BROKER_NAME": "Baumz Trade",
+  "VITE_BROKER_EOA_ADDRESS": "0x0b4ace04f15d50871daf22b575bfa68a89ea0ceb",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
   "VITE_ORDERLY_MAINNET_CHAINS": "1,56,900900900,42161,10,8453,43114,146,1514,1329,2818,98866,2741,34443,5000",
@@ -19,6 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Markets,Vaults,Rewards,Leaderboard,Portfolio",
   "VITE_CUSTOM_MENUS": "",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "https://t.me/baumztrade",
   "VITE_DISCORD_URL": "https://discord.gg/U4HyUGfY",
@@ -34,5 +36,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": ""
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "",
+  "VITE_ANALYTICS_SCRIPT": ""
 };
